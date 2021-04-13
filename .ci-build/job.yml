@@ -1,0 +1,4 @@
+job:
+  name: OldYaml
+  vm-template: free
+
