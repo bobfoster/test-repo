@@ -1,4 +1,4 @@
 job:
-  name: OldYaml
+  name: OldYamller
   vm-template: free
 
